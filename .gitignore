@@ -1,0 +1,26 @@
+# Maven & build outputs
+target/
+out/
+build/
+sources.txt
+
+# Embedded Tomcat runtime directories
+tomcat.*/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# Logs & local runtime data
+*.log
+data/
+
+# OS metadata
+.DS_Store
+Thumbs.db
